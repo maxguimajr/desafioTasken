@@ -1,0 +1,15 @@
+/home/max/Área de Trabalho/desafioTasken/desafio02/bin/Debug/net6.0/desafio02
+/home/max/Área de Trabalho/desafioTasken/desafio02/bin/Debug/net6.0/desafio02.deps.json
+/home/max/Área de Trabalho/desafioTasken/desafio02/bin/Debug/net6.0/desafio02.runtimeconfig.json
+/home/max/Área de Trabalho/desafioTasken/desafio02/bin/Debug/net6.0/desafio02.dll
+/home/max/Área de Trabalho/desafioTasken/desafio02/bin/Debug/net6.0/desafio02.pdb
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.csproj.AssemblyReference.cache
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.AssemblyInfoInputs.cache
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.AssemblyInfo.cs
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.csproj.CoreCompileInputs.cache
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.dll
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/refint/desafio02.dll
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.pdb
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/desafio02.genruntimeconfig.cache
+/home/max/Área de Trabalho/desafioTasken/desafio02/obj/Debug/net6.0/ref/desafio02.dll

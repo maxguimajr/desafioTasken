@@ -1,0 +1,3 @@
+﻿Escreva um programa que leia um arquivo texto (.txt) escolhido pelo usuário. Após a leitura do arquivo, o programa deverá exibir qual linha,
+possui mais vogais e qual linha possui mais consoantes. Por simplicidade admita que o arquivo conterá apenas letras (sem acentos ou ç) e
+ espaços em branco. Caso ocorra empate, qualquer uma das linhas poderá ser exibida
